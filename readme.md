@@ -1,4 +1,7 @@
+# ML Obsidian Valut
 
-Index
+
+- Open in Obsidian
+- Read Index_of_idk-knowledge-graph
 
 
