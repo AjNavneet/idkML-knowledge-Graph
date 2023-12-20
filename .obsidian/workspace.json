@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anomaly Detection/How would you design a Real-time Anomaly Detection Algorithm?.md",
+                "file": "Keras/Construct a Model which takes two inputs and produces a single output.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 383.5
+    "width": 383.5,
+    "collapsed": true
   },
   "right": {
     "id": "2d28c0b415c679ab",
@@ -102,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anomaly Detection/How would you design a Real-time Anomaly Detection Algorithm?.md",
+                "file": "Keras/Construct a Model which takes two inputs and produces a single output.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Anomaly Detection/How would you design a Real-time Anomaly Detection Algorithm?.md",
+                "file": "Keras/Construct a Model which takes two inputs and produces a single output.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Anomaly Detection/How would you design a Real-time Anomaly Detection Algorithm?.md"
+                "file": "Keras/Construct a Model which takes two inputs and produces a single output.md"
               }
             }
           },
@@ -193,6 +194,12 @@
   },
   "active": "f3b376147910efd7",
   "lastOpenFiles": [
+    "Recommender Systems/How can SVD be used in Collaborative Filtering in Theory?.md",
+    "Recommender Systems/How do you choose between User-Based and Item-Based Neighborhood RecommenderSystem?.md",
+    "lightfm notes.md",
+    "Keras/Construct a Model which takes two inputs and produces a single output.md",
+    "Anomaly Detection/What are some shortcomings for Density-Based Anomaly Detection Algorithms?.md",
+    "Anomaly Detection/How would you design a Real-time Anomaly Detection Algorithm?.md",
     "Anomaly Detection/How is Mahalanobis Distance used in Outlier Detection?.md",
     "Anomaly Detection/How is Anomaly Detection performed in Models of Time-Varying Processes?.md",
     "Anomaly Detection/How does Dictionary Learning perform Anomaly Detection?.md",
@@ -214,12 +221,6 @@
     "SVM/How does the value of Gamma affect the SVM?.md",
     "SVM/How does the value of C affect the SVM?.md",
     "SVM/How do you approximate RBF kernel to scale with large numbers of training samples?.md",
-    "SVM/For N dimensional data set what is the minimum possible number of Support Vectors?.md",
-    "SVM/Explain the dual form of SVM formulation.md",
-    "SVM/Does Redundant data affect an SVM-based classifier?.md",
-    "SVM/Does linear SVMs suffer from the Curse of Dimensionality?.md",
-    "PCA/Can you explain PAC learning theory intuitively?.md",
-    "SVM/Can Support Vector Machines be used for Outlier Detection?.md",
     "Attachements/Screenshot 2023-12-09 at 2.18.43 AM.png",
     "Attachements/Screenshot 2023-12-09 at 2.18.18 AM.png",
     "Attachements/Screenshot 2023-12-09 at 2.18.00 AM.png",
