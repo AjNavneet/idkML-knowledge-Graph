@@ -3,6 +3,7 @@
 - 📄 [[readme|readme]]
 - 🗂️ ![[Anomaly Detection/Index_of_Anomaly Detection|Index_of_Anomaly Detection]]
 - 🗂️ ![[AutoEncoders/Index_of_AutoEncoders|Index_of_AutoEncoders]]
+- 🗂️ ![[Azure ML/Index_of_Azure ML|Index_of_Azure ML]]
 - 🗂️ ![[Bias & Variance/Index_of_Bias & Variance|Index_of_Bias & Variance]]
 - 🗂️ ![[Classification/Index_of_Classification|Index_of_Classification]]
 - 🗂️ ![[Clustering/Index_of_Clustering|Index_of_Clustering]]

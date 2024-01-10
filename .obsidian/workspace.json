@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Keras/Construct a Model which takes two inputs and produces a single output.md",
-                "mode": "preview",
+                "file": "Azure ML/Can you provide a high-level overview of how can you run in parallel a single pipeline step?.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -86,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 383.5,
-    "collapsed": true
+    "width": 463.5
   },
   "right": {
     "id": "2d28c0b415c679ab",
@@ -103,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Keras/Construct a Model which takes two inputs and produces a single output.md",
+                "file": "Azure ML/Can you provide a high-level overview of how can you run in parallel a single pipeline step?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Keras/Construct a Model which takes two inputs and produces a single output.md",
+                "file": "Azure ML/Can you provide a high-level overview of how can you run in parallel a single pipeline step?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Keras/Construct a Model which takes two inputs and produces a single output.md"
+                "file": "Azure ML/Can you provide a high-level overview of how can you run in parallel a single pipeline step?.md"
               }
             }
           },
@@ -194,43 +193,43 @@
   },
   "active": "f3b376147910efd7",
   "lastOpenFiles": [
-    "Recommender Systems/How can SVD be used in Collaborative Filtering in Theory?.md",
-    "Recommender Systems/How do you choose between User-Based and Item-Based Neighborhood RecommenderSystem?.md",
-    "lightfm notes.md",
-    "Keras/Construct a Model which takes two inputs and produces a single output.md",
-    "Anomaly Detection/What are some shortcomings for Density-Based Anomaly Detection Algorithms?.md",
-    "Anomaly Detection/How would you design a Real-time Anomaly Detection Algorithm?.md",
-    "Anomaly Detection/How is Mahalanobis Distance used in Outlier Detection?.md",
-    "Anomaly Detection/How is Anomaly Detection performed in Models of Time-Varying Processes?.md",
-    "Anomaly Detection/How does Dictionary Learning perform Anomaly Detection?.md",
-    "Anomaly Detection/Explain what is Anomaly Detection?.md",
-    "Anomaly Detection/Explain the difference between Outlier Detection vs Novelty Detection.md",
-    "Index_of_idk-knowledge-graph.md",
-    "Unsupervised Learning/Are GANs unsupervised?.md",
-    "Scikit-Learn/_Index_of_Scikit-Learn.md",
-    "Statistics/Statistics.md",
-    "readme.md",
+    "Azure ML/What is reuse in a Azure Machine Learning pipeline?.md",
+    "Attachements/Screenshot 2024-01-11 at 3.48.29 AM.png",
+    "Azure ML/What tools can you use to interpret your model in Azure Machine Learning?.md",
+    "Attachements/Screenshot 2024-01-11 at 3.48.11 AM.png",
+    "Azure ML/What types of Online Endpoints do you know in Azure Machine Learning?.md",
+    "Attachements/Screenshot 2024-01-11 at 3.47.55 AM.png",
+    "Azure ML/What kind of drifts can you monitor in Azure Machine Learning?.md",
+    "Attachements/Screenshot 2024-01-11 at 3.47.39 AM.png",
+    "Azure ML/How can you run distributed ML in Azure?.md",
+    "Attachements/Screenshot 2024-01-11 at 3.47.25 AM.png",
+    "Azure ML/Can you provide a high-level overview of how can you run in parallel a single pipeline step?.md",
+    "Attachements/Screenshot 2024-01-11 at 3.47.08 AM.png",
+    "Azure ML/When would you use Nebula in Azure Machine Learning?.md",
+    "Attachements/Screenshot 2024-01-11 at 3.46.46 AM.png",
+    "Azure ML/What are the types of deployments in Azure ML batch endpoints?.md",
+    "Attachements/Screenshot 2024-01-11 at 3.46.26 AM.png",
+    "Azure ML/How to define a machine learning job in Azure Machine Learning?.md",
+    "Attachements/Screenshot 2024-01-11 at 3.46.12 AM.png",
+    "Azure ML/How to create a batch deployment in Azure Machine Learning?.md",
+    "Attachements/Screenshot 2024-01-11 at 3.45.54 AM.png",
+    "Azure ML/When would you need to use a Compute Cluster in Azure Machine Learning?.md",
+    "Azure ML/What's the difference between Compute Instance and Compute Target in Azure machine learning? When would you use each one?.md",
+    "Azure ML/What's the difference between a Pipeline Job and Pipeline Component in Azure Machine Learning?.md",
+    "Azure ML/What's the difference between HyperDrive and AutoML services?.md",
+    "Azure ML/What types of Azure Data Factory pipelines can be used for Azure Machine Learning?.md",
+    "Azure ML/How to detect data drift in Azure Machine Learning?.md",
+    "Azure ML/What are the steps to put an ML model in production with Azure Machine Learning?.md",
+    "Azure ML/Name some metrics you would monitor for Online Endpoints and Online Deployments.md",
+    "Azure ML/What's the difference between Azure ML Notebooks VS Azure Databricks?.md",
+    "Azure ML/When would you use Online Endpoint vs Batch Endpoint in Azure Machine Learning?.md",
+    "Azure ML/What's the difference between Endpoints and Deployments in Azure Machine Learning?.md",
+    "Azure ML/Name some training methods available in Azure Machine Learning.md",
+    "Azure ML/What types of compute targets in Azure Machine Learning do you know?.md",
+    "Azure ML/What's the difference between Datastore and Data Asset in Azure Machine Learning?.md",
+    "Azure ML/How can you create a pipeline in Azure Machine Learning?.md",
+    "Azure ML",
     "Untitled.canvas",
-    "Unsupervised Learning/Index_of_Unsupervised Learning.md",
-    "Unsupervised Learning/What are some applications of Unsupervised Learning?.md",
-    "Unsupervised Learning/What are some common Machine Learning problems that Unsupervised Learning can help with?.md",
-    "Unsupervised Learning/What are some differences between Unsupervised Learning and Reinforcement Learning?.md",
-    "Unsupervised Learning/What’s the LDA algorithm? Give an example..md",
-    "SVM/How to use one-class SVM for Anomalies Detections?.md",
-    "SVM/How to select Kernel for SVM?.md",
-    "SVM/How does the value of Gamma affect the SVM?.md",
-    "SVM/How does the value of C affect the SVM?.md",
-    "SVM/How do you approximate RBF kernel to scale with large numbers of training samples?.md",
-    "Attachements/Screenshot 2023-12-09 at 2.18.43 AM.png",
-    "Attachements/Screenshot 2023-12-09 at 2.18.18 AM.png",
-    "Attachements/Screenshot 2023-12-09 at 2.18.00 AM.png",
-    "Attachements/Screenshot 2023-12-09 at 2.17.41 AM.png",
-    "Attachements/Screenshot 2023-12-09 at 2.17.18 AM.png",
-    "Attachements/Screenshot 2023-12-09 at 2.16.58 AM.png",
-    "Attachements/Screenshot 2023-12-09 at 2.16.35 AM.png",
-    "Attachements/Screenshot 2023-12-09 at 2.16.26 AM.png",
-    "Attachements/Screenshot 2023-12-09 at 2.15.52 AM.png",
-    "Attachements/Screenshot 2023-12-09 at 2.15.26 AM.png",
     "Spaces/Home",
     "Spaces",
     "image-zoom.css",
@@ -240,7 +239,6 @@
     "8.4 Dimensionality Reduction",
     "8.3 Data Processing",
     "8.2 Bias & Variance",
-    "8.1 Curse of Dimensionality",
-    "8.0 Feature Engineering"
+    "8.1 Curse of Dimensionality"
   ]
 }
