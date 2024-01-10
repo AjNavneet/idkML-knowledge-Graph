@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Azure ML/Can you provide a high-level overview of how can you run in parallel a single pipeline step?.md",
+                "file": "readme.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Azure ML/Can you provide a high-level overview of how can you run in parallel a single pipeline step?.md",
+                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Azure ML/Can you provide a high-level overview of how can you run in parallel a single pipeline step?.md",
+                "file": "readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Azure ML/Can you provide a high-level overview of how can you run in parallel a single pipeline step?.md"
+                "file": "readme.md"
               }
             }
           },
@@ -193,6 +193,10 @@
   },
   "active": "f3b376147910efd7",
   "lastOpenFiles": [
+    "lightfm notes.md",
+    "readme.md",
+    "Azure ML/Can you provide a high-level overview of how can you run in parallel a single pipeline step?.md",
+    "LICENSE",
     "Azure ML/What is reuse in a Azure Machine Learning pipeline?.md",
     "Attachements/Screenshot 2024-01-11 at 3.48.29 AM.png",
     "Azure ML/What tools can you use to interpret your model in Azure Machine Learning?.md",
@@ -203,7 +207,6 @@
     "Attachements/Screenshot 2024-01-11 at 3.47.39 AM.png",
     "Azure ML/How can you run distributed ML in Azure?.md",
     "Attachements/Screenshot 2024-01-11 at 3.47.25 AM.png",
-    "Azure ML/Can you provide a high-level overview of how can you run in parallel a single pipeline step?.md",
     "Attachements/Screenshot 2024-01-11 at 3.47.08 AM.png",
     "Azure ML/When would you use Nebula in Azure Machine Learning?.md",
     "Attachements/Screenshot 2024-01-11 at 3.46.46 AM.png",
@@ -227,7 +230,6 @@
     "Azure ML/Name some training methods available in Azure Machine Learning.md",
     "Azure ML/What types of compute targets in Azure Machine Learning do you know?.md",
     "Azure ML/What's the difference between Datastore and Data Asset in Azure Machine Learning?.md",
-    "Azure ML/How can you create a pipeline in Azure Machine Learning?.md",
     "Azure ML",
     "Untitled.canvas",
     "Spaces/Home",
@@ -238,7 +240,6 @@
     "8.5 Model Evaluation",
     "8.4 Dimensionality Reduction",
     "8.3 Data Processing",
-    "8.2 Bias & Variance",
-    "8.1 Curse of Dimensionality"
+    "8.2 Bias & Variance"
   ]
 }
