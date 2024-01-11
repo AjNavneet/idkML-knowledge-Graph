@@ -16,7 +16,6 @@
 - 📄 [[Classification/What is a Confusion Matrix?|What is a Confusion Matrix?]]
 - 📄 [[Classification/What types of Classification Algorithms do you know?|What types of Classification Algorithms do you know?]]
 - 📄 [[Classification/What's the difference between Generative Classifiers and Discriminative Classifiers Name some examples of each one|What's the difference between Generative Classifiers and Discriminative Classifiers Name some examples of each one]]
-- 📄 [[Classification/What's the difference between Generative Classifiers and Discriminative Classifiers? Name some examples of each one|What's the difference between Generative Classifiers and Discriminative Classifiers? Name some examples of each one]]
 - 📄 [[Classification/What's the difference between Multiclass Classification models and Multi Label model?|What's the difference between Multiclass Classification models and Multi Label model?]]
 - 📄 [[Classification/What's the difference between One-vs-Rest and One-vs-One?|What's the difference between One-vs-Rest and One-vs-One?]]
 - 📄 [[Classification/What's the difference between Random Oversampling and Random Undersampling and when they can be used?|What's the difference between Random Oversampling and Random Undersampling and when they can be used?]]

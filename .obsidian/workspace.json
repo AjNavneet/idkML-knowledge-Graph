@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "readme.md",
+                "file": "Decision Tree/Why do you need to Prune the decision tree?.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 463.5
+    "width": 200
   },
   "right": {
     "id": "2d28c0b415c679ab",
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md",
+                "file": "Decision Tree/Why do you need to Prune the decision tree?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "readme.md",
+                "file": "Decision Tree/Why do you need to Prune the decision tree?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "readme.md"
+                "file": "Decision Tree/Why do you need to Prune the decision tree?.md"
               }
             }
           },
@@ -193,43 +193,43 @@
   },
   "active": "f3b376147910efd7",
   "lastOpenFiles": [
-    "lightfm notes.md",
-    "readme.md",
-    "Azure ML/Can you provide a high-level overview of how can you run in parallel a single pipeline step?.md",
+    "Decision Tree/While building Decision Tree how do you choose which attribute to split at each node?.md",
+    "Decision Tree/When should I use Gini Impurity as opposed to Information Gain (Entropy)?.md",
+    "Decision Tree/What type of node is considered Pure?.md",
+    "Decision Tree/What is the Variance Reduction metric in Decision Trees?.md",
+    "Decision Tree/What is the use of Entropy pertaining to Decision Trees?.md",
+    "Decision Tree/What is the relationship between Information Gain and Information Gain Ratio?.md",
+    "Decision Tree/What is the difference between Post-pruning and Pre-pruning?.md",
+    "Decision Tree/What is Greedy Splitting?.md",
+    "Decision Tree/What is Gini Index and how is it used in Decision Trees?.md",
+    "Decision Tree/What is Gini Impurity used to split a node?.md",
+    "Decision Tree/What is Entropy?.md",
+    "Decision Tree/What is Entropy criteria used to split a node?.md",
+    "Decision Tree/What is difference between Gini Impurity and Entropy in Decision Tree?.md",
+    "Decision Tree/What are the steps for Binary Recursive Partitioning in Decision Trees?.md",
+    "Decision Tree/What are some disadvantages of using Decision Trees and how would you solvethem?.md",
+    "Decision Tree/What are some disadvantages of using Decision Trees and how would you solve them?.md",
+    "Decision Tree/What are some disadvantages of the CHAID algorithm?.md",
+    "Decision Tree/What are some advantages of using Decision Trees?.md",
+    "Decision Tree/What are Decision Trees?.md",
+    "Decision Tree/How would you tune a Random Forest algorithm to improve its performance?.md",
+    "Decision Tree/How would you define the Stopping Criteria for decision trees?.md",
+    "Decision Tree/How would you deal with an Overfitted Decision Tree?.md",
+    "Decision Tree/How would you compare different Algorithms to build Decision Trees?.md",
+    "Decision Tree/How to extract the decision rules from Scikit-learn decision tree?.md",
+    "Decision Tree/How does the CART algorithm produce Regression Trees?.md",
+    "Decision Tree/How does the CART algorithm produce Classification Trees?.md",
     "LICENSE",
-    "Azure ML/What is reuse in a Azure Machine Learning pipeline?.md",
     "Attachements/Screenshot 2024-01-11 at 3.48.29 AM.png",
-    "Azure ML/What tools can you use to interpret your model in Azure Machine Learning?.md",
     "Attachements/Screenshot 2024-01-11 at 3.48.11 AM.png",
-    "Azure ML/What types of Online Endpoints do you know in Azure Machine Learning?.md",
     "Attachements/Screenshot 2024-01-11 at 3.47.55 AM.png",
-    "Azure ML/What kind of drifts can you monitor in Azure Machine Learning?.md",
     "Attachements/Screenshot 2024-01-11 at 3.47.39 AM.png",
-    "Azure ML/How can you run distributed ML in Azure?.md",
     "Attachements/Screenshot 2024-01-11 at 3.47.25 AM.png",
     "Attachements/Screenshot 2024-01-11 at 3.47.08 AM.png",
-    "Azure ML/When would you use Nebula in Azure Machine Learning?.md",
     "Attachements/Screenshot 2024-01-11 at 3.46.46 AM.png",
-    "Azure ML/What are the types of deployments in Azure ML batch endpoints?.md",
     "Attachements/Screenshot 2024-01-11 at 3.46.26 AM.png",
-    "Azure ML/How to define a machine learning job in Azure Machine Learning?.md",
     "Attachements/Screenshot 2024-01-11 at 3.46.12 AM.png",
-    "Azure ML/How to create a batch deployment in Azure Machine Learning?.md",
     "Attachements/Screenshot 2024-01-11 at 3.45.54 AM.png",
-    "Azure ML/When would you need to use a Compute Cluster in Azure Machine Learning?.md",
-    "Azure ML/What's the difference between Compute Instance and Compute Target in Azure machine learning? When would you use each one?.md",
-    "Azure ML/What's the difference between a Pipeline Job and Pipeline Component in Azure Machine Learning?.md",
-    "Azure ML/What's the difference between HyperDrive and AutoML services?.md",
-    "Azure ML/What types of Azure Data Factory pipelines can be used for Azure Machine Learning?.md",
-    "Azure ML/How to detect data drift in Azure Machine Learning?.md",
-    "Azure ML/What are the steps to put an ML model in production with Azure Machine Learning?.md",
-    "Azure ML/Name some metrics you would monitor for Online Endpoints and Online Deployments.md",
-    "Azure ML/What's the difference between Azure ML Notebooks VS Azure Databricks?.md",
-    "Azure ML/When would you use Online Endpoint vs Batch Endpoint in Azure Machine Learning?.md",
-    "Azure ML/What's the difference between Endpoints and Deployments in Azure Machine Learning?.md",
-    "Azure ML/Name some training methods available in Azure Machine Learning.md",
-    "Azure ML/What types of compute targets in Azure Machine Learning do you know?.md",
-    "Azure ML/What's the difference between Datastore and Data Asset in Azure Machine Learning?.md",
     "Azure ML",
     "Untitled.canvas",
     "Spaces/Home",
