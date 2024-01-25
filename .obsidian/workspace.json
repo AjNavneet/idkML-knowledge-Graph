@@ -21,6 +21,19 @@
             }
           },
           {
+            "id": "4b2c9f3dce3e12f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Anomaly Detection/Explain Anomaly Detection.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "503914c1c04e138f",
             "type": "leaf",
             "state": {
@@ -28,7 +41,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Decision Tree/Why do you need to Prune the decision tree?.md",
+                "file": "Anomaly Detection/Explain Anomaly Detection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Decision Tree/Why do you need to Prune the decision tree?.md",
+                "file": "Anomaly Detection/Explain Anomaly Detection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Decision Tree/Why do you need to Prune the decision tree?.md"
+                "file": "Anomaly Detection/Explain Anomaly Detection.md"
               }
             }
           },
@@ -191,8 +205,20 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "f3b376147910efd7",
+  "active": "4b2c9f3dce3e12f0",
   "lastOpenFiles": [
+    "Sca - Notes/ts/4 Time Series 4.pdf",
+    "Sca - Notes/ts/3 Time-Series-3-Notes.pdf",
+    "Sca - Notes/ts/1 Time Series 1.pdf",
+    "Sca - Notes/ts/2 Time Series 2 - Notes.pdf",
+    "Sca - Notes/tf/tensorflow 4.3 Quantisation_Distillation.pdf",
+    "Sca - Notes/tf/tensorflow 4.2.ipynb",
+    "Sca - Notes/tf/tensorflow 4.1.pdf",
+    "Sca - Notes/tf/tensorflow 3.3 NN_Denoising_and_Practical_Aspects.pdf",
+    "Sca - Notes/tf/tensorflow 3.2.pdf",
+    "Sca - Notes/tf/tensorflow 3.1.ipynb",
+    "Sca - Notes/tf/tensorflow 2.5.pdf",
+    "Azure ML/Can you provide a high-level overview of how can you run in parallel a single pipeline step?.md",
     "Decision Tree/While building Decision Tree how do you choose which attribute to split at each node?.md",
     "Decision Tree/When should I use Gini Impurity as opposed to Information Gain (Entropy)?.md",
     "Decision Tree/What type of node is considered Pure?.md",
@@ -217,9 +243,6 @@
     "Decision Tree/How would you deal with an Overfitted Decision Tree?.md",
     "Decision Tree/How would you compare different Algorithms to build Decision Trees?.md",
     "Decision Tree/How to extract the decision rules from Scikit-learn decision tree?.md",
-    "Decision Tree/How does the CART algorithm produce Regression Trees?.md",
-    "Decision Tree/How does the CART algorithm produce Classification Trees?.md",
-    "LICENSE",
     "Attachements/Screenshot 2024-01-11 at 3.48.29 AM.png",
     "Attachements/Screenshot 2024-01-11 at 3.48.11 AM.png",
     "Attachements/Screenshot 2024-01-11 at 3.47.55 AM.png",
@@ -230,16 +253,7 @@
     "Attachements/Screenshot 2024-01-11 at 3.46.26 AM.png",
     "Attachements/Screenshot 2024-01-11 at 3.46.12 AM.png",
     "Attachements/Screenshot 2024-01-11 at 3.45.54 AM.png",
-    "Azure ML",
     "Untitled.canvas",
-    "Spaces/Home",
-    "Spaces",
-    "image-zoom.css",
-    "Untitled 1.canvas",
-    "8.6 PCA",
-    "8.5 Model Evaluation",
-    "8.4 Dimensionality Reduction",
-    "8.3 Data Processing",
-    "8.2 Bias & Variance"
+    "Untitled 1.canvas"
   ]
 }
