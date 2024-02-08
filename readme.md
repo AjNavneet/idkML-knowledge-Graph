@@ -1,4 +1,4 @@
-# ML Obsidian Valut
+# ML Obsidian Vault
 
 ## Setup Instructions 🚀
 1. **Clone Repository**.
