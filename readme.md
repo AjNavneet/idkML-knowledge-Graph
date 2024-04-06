@@ -1,8 +1,4 @@
-# ML Obsidian Vault
-
-## Setup Instructions 🚀
-1. **Clone Repository**.
-2. **Open Repository folder in Obsidian app.** 
+# ML Vault
 
 ---
 ### **Programming Languages:**
@@ -21,6 +17,7 @@
 - Cost Functions -> ✅
 - Probability -> ✅
 - Statistics -> ✅
+- Game Theory -> ✅
 
 ---
 
@@ -86,6 +83,7 @@
 ### Platforms:
 
 - Azure ML -> ✅
+- AWS ML -> ✅
 
 ---
 ### LLM:
