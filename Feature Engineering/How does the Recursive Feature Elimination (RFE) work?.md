@@ -1,2 +1,0 @@
-![[Screenshot 2023-12-06 at 12.37.39 AM.png]]
-![https://www.researchgate.net/publication/341141637/figure/fig1/AS:887646305935360@1588642779526/Process-of-feature-importance-based-recursive-feature-elimination-RFE-N-denotes-the.png](https://www.researchgate.net/publication/341141637/figure/fig1/AS:887646305935360@1588642779526/Process-of-feature-importance-based-recursive-feature-elimination-RFE-N-denotes-the.png)

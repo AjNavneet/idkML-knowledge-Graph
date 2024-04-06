@@ -1,1 +1,0 @@
-What is the difference between ::Type{T} and ::T in a function definition?![[Screenshot 2023-12-08 at 7.22.59 AM.png]]

@@ -1,6 +1,0 @@
-![[Screenshot 2023-12-06 at 4.10.56 AM.png]]
-![[Screenshot 2023-12-06 at 4.11.05 AM.png]]
-![[Screenshot 2023-12-06 at 4.11.13 AM.png]]
-![[Screenshot 2023-12-06 at 4.11.23 AM.png]]
-![[Screenshot 2023-12-06 at 4.11.32 AM.png]]
-![[Screenshot 2023-12-06 at 4.11.47 AM.png]]
